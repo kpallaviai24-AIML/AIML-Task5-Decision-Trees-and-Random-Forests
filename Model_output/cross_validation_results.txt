@@ -1,0 +1,8 @@
+Decision Tree Cross Validation Scores
+[0.90731707 0.91707317 0.89268293 0.84878049 0.88780488]
+
+Random Forest Cross Validation Scores
+[1.         1.         0.98536585 0.99512195 0.98536585]
+
+Decision Tree Mean Accuracy : 0.8907317073170733
+Random Forest Mean Accuracy : 0.9931707317073171
